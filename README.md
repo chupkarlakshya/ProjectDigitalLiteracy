@@ -1,8 +1,11 @@
 # ProjectDigitalLiteracy
 
 **Name:** Lakshya Jain
+
 **Registration No.:** 25BAI10994
+
 **Branch:** B.Tech Artificial Intelligence & Machine Learning
+
 **Institution:** VIT Bhopal University
 
 ---
