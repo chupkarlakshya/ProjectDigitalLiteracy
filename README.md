@@ -1,1 +1,1 @@
-# ProjectDIgitalLiteracy
+# ProjectDigitalLiteracy
