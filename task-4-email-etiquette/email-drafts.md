@@ -19,8 +19,11 @@ Thank you for your time and understanding.
 
 Warm regards,
 Lakshya Jain
+
 25BAI10994 | B.Tech AIML (1st Year)
+
 VIT Bhopal University
+
 Lakshya.25bai10994@vitbhopal.ac.in
 
 ---
@@ -42,8 +45,13 @@ I would be grateful if you could consider my application or direct me to the app
 Thank you for your time and consideration. I look forward to the possibility of contributing to XYZ inc. this summer.
 
 Yours sincerely,
+
 Lakshya Jain
+
 B.Tech AIML (1st Year) | VIT Bhopal University
+
 Reg. No.: 25BAI10994
+
+
 Lakshya.25bai10994@vitbhopal.ac.in
 https://www.linkedin.com/in/lakshya-jain-a37aa2272/
