@@ -45,4 +45,3 @@ If you are a victim of any cybercrime, including UPI fraud, phishing, or online 
 
 ---
 
-*Prepared by Lakshya Jain | 25BAI10994 | B.Tech AIML | VIT Bhopal University*
