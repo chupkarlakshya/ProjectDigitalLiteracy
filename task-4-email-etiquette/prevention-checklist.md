@@ -3,7 +3,7 @@
 
 ---
 
-## 🔐 General Cybersecurity
+##  General Cybersecurity
 
 1. **Use strong, unique passwords** for every account. Use a mix of uppercase, lowercase, numbers, and special characters. Avoid using your name, birthdate, or "password123".
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 💸 Financial & UPI Safety (Mandatory)
+##  Financial & UPI Safety (Mandatory)
 
 7. **Remember: Scanning a QR code sends money — it does not receive money.** If someone asks you to "scan a QR code to receive a refund or payment," it is a scam. You will be sending money, not receiving it.
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 📱 Social Media & Identity Safety
+##  Social Media & Identity Safety
 
 9. **Review your privacy settings** on all social media platforms. Ensure your phone number, address, and personal details are not publicly visible.
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 🚨 Reporting Cybercrime in India
+##  Reporting Cybercrime in India
 
 If you are a victim of any cybercrime, including UPI fraud, phishing, or online harassment:
 
