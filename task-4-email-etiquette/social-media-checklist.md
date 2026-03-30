@@ -26,4 +26,3 @@
 
 ---
 
-*Prepared by Lakshya Jain | 25BAI10994 | VIT Bhopal University*
