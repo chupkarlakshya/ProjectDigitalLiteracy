@@ -5,6 +5,8 @@
 ## Email 1 – Request for Assignment Deadline Extension
 
 **Subject:** Request for Extension on Assignment Submission- CSA2001
+
+
 Respected Professor,
 
 I hope this email finds you well. I am writing to respectfully request a short extension on the upcoming assignment submission for Fundamentals in AIML, which is currently due on 27/03/26.
