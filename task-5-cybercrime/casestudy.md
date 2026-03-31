@@ -43,4 +43,3 @@ UPI fraud is basically when someone tricks you into sending them money or giving
 
 ---
 
-*This is a fictional scenario written for educational purposes, but it is based on real fraud patterns that happen in India.*
