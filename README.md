@@ -59,4 +59,3 @@ This repository contains my Digital Literacy Portfolio, completed as part of the
 
 ---
 
-*Submitted as part of the Digital Literacy Course — VIT Bhopal University, 2025*
